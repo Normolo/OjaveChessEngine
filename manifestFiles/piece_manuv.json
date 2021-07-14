@@ -1,0 +1,35 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Pieces",
+      "color": null,
+      "fields": [
+        {
+          "name": "Pawn",
+          "value": "```cpp\nscriptus[up_1]\nscriptus[up_2 if +2 on home] \n```"
+        },
+        {
+          "name": "Rook",
+          "value": "```cpp\nscriptus[up_X]\nscriptus[right_X]\nscriptus[left_X]\nscriptus[down_X]\n```"
+        },
+        {
+          "name": "Horse",
+          "value": "```cpp\nscriptus[(u/d/l/r)_2 then [(u/d)_1 if pos 13 or 15 = [l/r] or [(l/r) if pos 9 or 11 =  [u/d]] \n```"
+        },
+        {
+          "name": "Bishop",
+          "value": "```cpp\nscriptus[((u/d/l/r) + (u/d/l/r))_X]\n```"
+        },
+        {
+          "name": "Queen",
+          "value": "```cpp\nscriptus[((u/d/l/r) + (u/d/l/r))_X]\nscriptus[up_X]\nscriptus[right_X]\nscriptus[left_X]\nscriptus[down_X]\n```"
+        },
+        {
+          "name": "King",
+          "value": "```cpp\nscriptus[((u/d/l/r) + (u/d/l/r))_1]\nscriptus[up_1]\nscriptus[right_1]\nscriptus[left_1]\nscriptus[down_1]\n```"
+        }
+      ]
+    }
+  ]
+}
