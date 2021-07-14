@@ -1,0 +1,31 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Pieces",
+        "color": null,
+        "fields": [
+          {
+            "name": "Pawn",
+            "value": "https://lh3.googleusercontent.com/proxy/sYbwTVrEZI-mCy-c4ZTqlphAp8t8l5aFRIEEo3jaoXAxBHAXwKvrOZsxntWFSVfz_oHMOR4AsM8jEZ9a38dWCrvDKY_x53elmL9r29o7wSlCKmvxWhwisEVNQYNf48mRZxPOePDg6iTvzTdtpepeWEd1hY2fuZDGnKEb"
+          },
+          {
+            "name": "Rook",
+            "value": "https://www.pngitem.com/pimgs/m/316-3169550_chess-rook-png-transparent-images-png-download.png"
+          },
+          {
+            "name": "Horse",
+            "value": "https://i.pinimg.com/736x/18/2d/0e/182d0e8ed9f49b946129228a137591ab.jpg"
+          },
+          {
+            "name": "Bishop",
+            "value": "https://icon2.cleanpng.com/20180315/hjq/kisspng-chess-piece-bishop-clip-art-chess-king-cliparts-5aaa0e13cad307.2304684215210941638308.jpg"
+          },
+          {
+            "name": "Queen",
+            "value": "https://www.seekpng.com/png/detail/301-3017958_chess-clipart-word-chess-black-queen-png.png"
+          }
+        ]
+      }
+    ]
+  }
