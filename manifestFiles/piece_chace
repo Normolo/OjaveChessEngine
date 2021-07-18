@@ -1,0 +1,15 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Positions",
+      "color": null,
+      "fields": [
+        {
+          "name": "template.name",
+          "value": "template.location"
+        }
+      ]
+    }
+  ]
+}
